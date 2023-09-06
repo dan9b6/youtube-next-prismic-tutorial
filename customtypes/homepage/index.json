@@ -20,6 +20,9 @@
           "choices": {
             "hero": {
               "type": "SharedSlice"
+            },
+            "features": {
+              "type": "SharedSlice"
             }
           }
         }
