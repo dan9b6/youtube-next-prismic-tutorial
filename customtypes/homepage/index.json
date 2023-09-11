@@ -23,6 +23,9 @@
             },
             "features": {
               "type": "SharedSlice"
+            },
+            "testimonials": {
+              "type": "SharedSlice"
             }
           }
         }
